@@ -1,0 +1,35 @@
+.stati{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.box p {
+    margin: 0;
+}
+
+.box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    border: 1px solid black;
+    width: 300px;
+    min-height: 125px;
+    text-align: center;
+}
+
+.icons{
+    display: flex;
+    text-align: center;
+    margin-top: 80px;
+}
+.icons p{
+    text-align: center;
+}
+.icons img{
+    margin-left: 8px;
+    width: 25px;
+    height: 25px;
+}
